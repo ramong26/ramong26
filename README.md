@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## ✨ GitHub Stats
+
+![ramong26 GitHub stats](https://github-readme-stats.vercel.app/api?username=ramong26&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramong26&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ramong26&theme=tokyonight&hide_border=true)
